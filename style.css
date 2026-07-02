@@ -1,0 +1,5 @@
+body{margin:0;background:#eef5ff;font-family:Arial;display:flex;justify-content:center;padding:30px}
+.card{background:#fff;max-width:420px;width:100%;padding:24px;border-radius:16px;box-shadow:0 8px 24px rgba(0,0,0,.15);text-align:center}
+.logo{height:60px}.badge{margin:15px 0;background:#16a34a;color:#fff;padding:10px;border-radius:8px;font-weight:bold}
+.photo{width:140px;height:140px;border-radius:50%;object-fit:cover;border:4px solid #1976d2}
+table{width:100%;margin-top:15px;border-collapse:collapse}td{padding:10px;border-bottom:1px solid #ddd;text-align:left}.active{color:#16a34a;font-weight:bold}.note{margin-top:18px;color:#555}
