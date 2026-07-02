@@ -1,0 +1,5 @@
+body{font-family:Arial;background:#eef5ff;display:flex;justify-content:center;padding:30px}
+.card{background:#fff;max-width:420px;width:100%;padding:20px;border-radius:14px;box-shadow:0 4px 18px rgba(0,0,0,.15)}
+.badge{background:#0a8f3d;color:#fff;padding:10px;border-radius:8px;text-align:center;font-weight:bold}
+.photo{width:120px;height:120px;border-radius:50%;display:block;margin:20px auto;object-fit:cover}
+table{width:100%;border-collapse:collapse}td{padding:8px;border-bottom:1px solid #ddd}
